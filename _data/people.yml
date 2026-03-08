@@ -27,12 +27,12 @@ wolverine:
 
     
 make:
-    display_name: "马珂"
+    display_name: "马珂 Ma Ke"
     role: grad
     image: /img/people/bizhu.jpg
 
 kedeng:
-    display_name: "吴克登 Kedeng Wu"
+    display_name: "马珂 Ma Ke"
     role: grad
     image: /img/people/kedeng.jpg
 
